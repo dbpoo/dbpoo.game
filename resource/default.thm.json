@@ -1,0 +1,7 @@
+{
+  "exmls": [
+    "resource/skins/LoadingSkin.exml",
+    "resource/skins/LoginBtnSkin.exml",
+    "resource/skins/LoginSkin.exml"
+  ]
+}

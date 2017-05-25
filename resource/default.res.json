@@ -1,0 +1,277 @@
+{
+	"groups": [
+		{
+			"keys": "bg_sound,bg_1,bg_2,btn_login,create_actor,hero_01,hero_02,hero_03,herobtn_01,herobtn_02,herobtn_03,creat_name,btn_back,btn_create",
+			"name": "login"
+		},
+		{
+			"keys": "map_zhulin_bottom,map_zhulin_top,btn_boss,btn_boss_active,btn_box,btn_box_active,btn_01,btn_02,btn_03,btn_04,btn_05,icon_1p,icon_2p,icon_3p,icon_hero,top_info,menubg,ptit_01,talk,tbtn_01,tbtn_02,tbtn_03,tbtn_04,tbtn_05,tbtn_06,tbtn_07,tbtn_08,tbtn_close,tbtn_open,map_zhulin_middle,tufei1_tex_png,tufei1_tex_json,tufei1_ske_json,huowu_ske_json,huowu_tex_json,huowu_tex_png",
+			"name": "game"
+		},
+		{
+			"keys": "loading",
+			"name": "common"
+		},
+		{
+			"keys": "",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/sound/bg.mp3",
+			"type": "sound",
+			"name": "bg_sound"
+		},
+		{
+			"url": "assets/login/bg_1.jpg",
+			"type": "image",
+			"name": "bg_1"
+		},
+		{
+			"url": "assets/login/bg_2.jpg",
+			"type": "image",
+			"name": "bg_2"
+		},
+		{
+			"url": "assets/login/btn.png",
+			"type": "image",
+			"name": "btn_login"
+		},
+		{
+			"url": "assets/login/create.png",
+			"type": "image",
+			"name": "create_actor"
+		},
+		{
+			"url": "assets/login/hero_01.png",
+			"type": "image",
+			"name": "hero_01"
+		},
+		{
+			"url": "assets/login/hero_02.png",
+			"type": "image",
+			"name": "hero_02"
+		},
+		{
+			"url": "assets/login/hero_03.png",
+			"type": "image",
+			"name": "hero_03"
+		},
+		{
+			"url": "assets/login/herobtn_01.png",
+			"type": "image",
+			"name": "herobtn_01"
+		},
+		{
+			"url": "assets/login/herobtn_02.png",
+			"type": "image",
+			"name": "herobtn_02"
+		},
+		{
+			"url": "assets/login/herobtn_03.png",
+			"type": "image",
+			"name": "herobtn_03"
+		},
+		{
+			"url": "assets/login/name.png",
+			"type": "image",
+			"name": "creat_name"
+		},
+		{
+			"url": "assets/login/btn_back.png",
+			"type": "image",
+			"name": "btn_back"
+		},
+		{
+			"url": "assets/login/btn_create.png",
+			"type": "image",
+			"name": "btn_create"
+		},
+		{
+			"url": "assets/scene/map_zhulin_bottom.png",
+			"type": "image",
+			"name": "map_zhulin_bottom"
+		},
+		{
+			"url": "assets/scene/map_zhulin_top.jpg",
+			"type": "image",
+			"name": "map_zhulin_top"
+		},
+		{
+			"url": "assets/ui/boss.png",
+			"type": "image",
+			"name": "btn_boss"
+		},
+		{
+			"url": "assets/ui/boss_active.png",
+			"type": "image",
+			"name": "btn_boss_active"
+		},
+		{
+			"url": "assets/ui/box.png",
+			"type": "image",
+			"name": "btn_box"
+		},
+		{
+			"url": "assets/ui/box_active.png",
+			"type": "image",
+			"name": "btn_box_active"
+		},
+		{
+			"url": "assets/ui/btn_01.png",
+			"type": "image",
+			"name": "btn_01"
+		},
+		{
+			"url": "assets/ui/btn_02.png",
+			"type": "image",
+			"name": "btn_02"
+		},
+		{
+			"url": "assets/ui/btn_03.png",
+			"type": "image",
+			"name": "btn_03"
+		},
+		{
+			"url": "assets/ui/btn_04.png",
+			"type": "image",
+			"name": "btn_04"
+		},
+		{
+			"url": "assets/ui/btn_05.png",
+			"type": "image",
+			"name": "btn_05"
+		},
+		{
+			"url": "assets/ui/icon_1p.png",
+			"type": "image",
+			"name": "icon_1p"
+		},
+		{
+			"url": "assets/ui/icon_2p.png",
+			"type": "image",
+			"name": "icon_2p"
+		},
+		{
+			"url": "assets/ui/icon_3p.png",
+			"type": "image",
+			"name": "icon_3p"
+		},
+		{
+			"url": "assets/ui/icon_hero.png",
+			"type": "image",
+			"name": "icon_hero"
+		},
+		{
+			"url": "assets/ui/info.png",
+			"type": "image",
+			"name": "top_info"
+		},
+		{
+			"url": "assets/ui/loading.png",
+			"type": "image",
+			"name": "loading"
+		},
+		{
+			"url": "assets/ui/menubg.jpg",
+			"type": "image",
+			"name": "menubg"
+		},
+		{
+			"url": "assets/ui/ptit_01.png",
+			"type": "image",
+			"name": "ptit_01"
+		},
+		{
+			"url": "assets/ui/talk.png",
+			"type": "image",
+			"name": "talk"
+		},
+		{
+			"url": "assets/ui/tbtn_01.png",
+			"type": "image",
+			"name": "tbtn_01"
+		},
+		{
+			"url": "assets/ui/tbtn_02.png",
+			"type": "image",
+			"name": "tbtn_02"
+		},
+		{
+			"url": "assets/ui/tbtn_03.png",
+			"type": "image",
+			"name": "tbtn_03"
+		},
+		{
+			"url": "assets/ui/tbtn_04.png",
+			"type": "image",
+			"name": "tbtn_04"
+		},
+		{
+			"url": "assets/ui/tbtn_05.png",
+			"type": "image",
+			"name": "tbtn_05"
+		},
+		{
+			"url": "assets/ui/tbtn_06.png",
+			"type": "image",
+			"name": "tbtn_06"
+		},
+		{
+			"url": "assets/ui/tbtn_07.png",
+			"type": "image",
+			"name": "tbtn_07"
+		},
+		{
+			"url": "assets/ui/tbtn_08.png",
+			"type": "image",
+			"name": "tbtn_08"
+		},
+		{
+			"url": "assets/ui/tbtn_close.png",
+			"type": "image",
+			"name": "tbtn_close"
+		},
+		{
+			"url": "assets/ui/tbtn_open.png",
+			"type": "image",
+			"name": "tbtn_open"
+		},
+		{
+			"url": "assets/scene/map_zhulin_middle.png",
+			"type": "image",
+			"name": "map_zhulin_middle"
+		},
+		{
+			"url": "assets/action/tufei1_ske.json",
+			"type": "json",
+			"name": "tufei1_ske_json"
+		},
+		{
+			"url": "assets/action/tufei1_tex.json",
+			"type": "json",
+			"name": "tufei1_tex_json"
+		},
+		{
+			"url": "assets/action/tufei1_tex.png",
+			"type": "image",
+			"name": "tufei1_tex_png"
+		},
+		{
+			"url": "assets/action/huowu_ske.json",
+			"type": "json",
+			"name": "huowu_ske_json"
+		},
+		{
+			"url": "assets/action/huowu_tex.png",
+			"type": "image",
+			"name": "huowu_tex_png"
+		},
+		{
+			"url": "assets/action/huowu_tex.json",
+			"type": "json",
+			"name": "huowu_tex_json"
+		}
+	]
+}

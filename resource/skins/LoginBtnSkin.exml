@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LoginBtnSkin" width="260" height="99" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" states="up,down,disable" >
+	<e:Image left="0" right="0" top="0" bottom="0" source="btn_login" scaleX.down="1" scaleY.down="1" alpha.down="1" anchorOffsetX.up="0" left.up="16" right.up="15" top.up="6" bottom.up="5" anchorOffsetY.up="0"/>
+</e:Skin>

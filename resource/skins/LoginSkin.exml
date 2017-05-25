@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LoginUISkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="groupLogin" x="0" y="0">
+		<e:Image source="bg_1" x="0" y="0"/>
+		<e:Button id="btnLogin" label="" x="190" y="971" anchorOffsetX="0" skinName="LoginBtnSkin"/>
+	</e:Group>
+	<e:Group id="groupSelect" x="0" y="0">
+		<e:Image source="bg_2" x="0" y="0"/>
+		<e:Image height="80" bottom="0" horizontalCenter="0" source="create_actor"/>
+		<e:Image id="selectActor" width="640" height="900" y="156" left="0"/>
+		<e:Image id="heroBtn01" width="117" height="177" y="220" right="0" source="herobtn_01" name="hero_01"/>
+		<e:Image id="heroBtn02" width="117" height="177" y="653" right="0" source="herobtn_03" name="hero_03"/>
+		<e:Image id="heroBtn03" width="117" height="177" y="437" source="herobtn_02" name="hero_02" right="0"/>
+		<e:Image width="493" height="73" x="73.5" verticalCenter="403.5" source="creat_name"/>
+		<e:Button id="backBtn" label="" height="80" width="196" bottom="0" left="0">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="btn_back"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button id="createBtn" label="" x="290" height="80" anchorOffsetX="0" width="216" bottom="0">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="btn_create"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+	</e:Group>
+</e:Skin>
